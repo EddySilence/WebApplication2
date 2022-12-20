@@ -12,6 +12,10 @@ namespace Events.Site.Controllers
 {
     /// <summary>
     /// commit -m '你好啊'asdasd
+    /// 測試
+    /// 合併commit
+    /// 合併兩次
+    /// 合併三次
     /// </summary>
     public class MembersController : Controller
     {
